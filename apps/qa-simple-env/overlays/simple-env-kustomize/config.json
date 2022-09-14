@@ -1,0 +1,11 @@
+{
+  "appName": "qa-simple-env",
+  "userGivenName": "qa-simple-env",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/qa-simple-env/overlays/simple-env-kustomize",
+  "srcRepoURL": "https://github.com/lloydsmithjr03/argocd_bootstrap.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
